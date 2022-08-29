@@ -27,24 +27,11 @@
 ## Results
 
 | Dataset | Model | AUC | 
-| ------------- | -------------| 
+| ------------- | -------------| -------------| 
 | Cinical variables  (with all 6 features) | FFN | 74%| 
 | Selected cinical variables (with selected 3 features) | FFN | 76%| 
 | Endoscopic image  (trained in endoscpic images only) | EfficientNet-B2 | 79%| 
 | Combined model (endoscopic image and selected clinical features) | EfficientNet-B2 | 84%| 
-
-
-###Tables
-                    
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 ----
 **Reference**

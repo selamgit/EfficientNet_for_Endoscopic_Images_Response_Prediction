@@ -10,7 +10,8 @@
 
 ----
 ### Dataset
-* 722 endoscopic images with clinical variables having 6 features (roughly out of 722 records half of them are complete response and half of them are non-complete response).
+* 722 endoscopic images with clinical variables having 6 features 
+* Roughly out of 722 records half of them are complete response and half of them are non-complete response.
 
 ### During endoscopic images and combined model training
 * Basic augmentation techniques (rotation, flipping, shearing and zooming of the original images) are used.

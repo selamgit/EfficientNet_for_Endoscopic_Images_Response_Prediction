@@ -21,6 +21,7 @@
 ![](images/combined_model_architecture.jpg)
 
 ----
+----
                     
 
 ## Results
@@ -33,6 +34,19 @@
 | Combined model (endoscopic image and selected clinical features) | EfficientNet-B2 | 84%| 
 
 
+###Tables
+                    
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+----
 **Reference**
 * [Melanoma. Pytorch starter. EfficientNet](https://www.kaggle.com/nroman/melanoma-pytorch-starter-efficientnet/output)
 

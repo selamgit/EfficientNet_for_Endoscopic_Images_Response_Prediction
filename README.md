@@ -10,7 +10,7 @@
 
 ----
 ### Dataset
-* 722 endoscopic images with clinical variables having 6 features (out of 722 records half of them are complete response and half of them are non-complete response).
+* 722 endoscopic images with clinical variables having 6 features (roughly out of 722 records half of them are complete response and half of them are non-complete response).
 
 ----
 ### Code

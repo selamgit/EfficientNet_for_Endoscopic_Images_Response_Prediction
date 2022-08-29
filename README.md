@@ -36,4 +36,4 @@
 ----
 **Reference**
 * [Melanoma. Pytorch starter. EfficientNet](https://www.kaggle.com/nroman/melanoma-pytorch-starter-efficientnet/output)
-
+* [EfficientNet] (https://github.com/qubvel/efficientnet)

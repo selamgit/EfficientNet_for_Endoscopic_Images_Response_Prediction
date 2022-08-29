@@ -6,7 +6,7 @@
 
 - The aim is to evaluate the accuracy of response prediction with deep learning methods based on endoscopic images and clinical features.
 
-![](images/background_endoscopy_imaging.jpg, width="400" height="300")
+![](images/background_endoscopy_imaging.jpg | width=300)
 
 ----
 ### Dataset
@@ -15,16 +15,16 @@
 ----
 ### Code
 * [Clinical variables model for response prediction (Clinical features model)](endoscopy_clinical_features_for_response_prediction.ipynb)
-* [Endoscopic images and clinical features model for response prediction (Combined model)](endoscopy_image_and clinical_features_for_response_prediction.ipynb)
+* [Endoscopic images and clinical features model for response prediction (Combined model)](endoscopy_image_and_clinical_features_for_response_prediction.ipynb)
 ----
 ### Proposed Combined Model Architecture
-![](images/combined_model_architecture.jpg, width="400" height="300")
+![](images/combined_model_architecture.jpg | width=300)
 
 ----
                     
-###Results
+## Results
                     
-  Dataset | Model | AUC 
+Dataset | Model | AUC 
 ------------- | -------------
 Cinical variables (with all 6 features) | FFN | 74%
 Selected cinical variables (with selected 3 features) | FFN | 76%

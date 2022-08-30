@@ -1,4 +1,4 @@
-##  Endoscopic images and clinical variables to predict the response of radiation therapy
+##  Endoscopic images and clinical variables to predict the response to radiation therapy
  
 ### Background and Aim
 
@@ -11,11 +11,11 @@
 ----
 ### Dataset
 * 722 endoscopic images with clinical variables having 6 features 
-* Roughly out of 722 records half of them are complete response and half of them are non-complete response.
+* Roughly out of 722 records half of them are complete responses and half of them are non-complete responses.
 
 ### During endoscopic images and combined model training
-* Basic augmentation techniques (rotation, flipping, shearing and zooming of the original images) are used.
-* Since endoscopic images are RGB natural images, transfer learning from the ImageNet was also used.
+* Basic augmentation techniques (rotation, flipping, shearing, and zooming of the original images) are used.
+* Since endoscopic images are RGB natural images, transfer learning from ImageNet was also used.
 ----
 ### Code
 * [Clinical variables model for response prediction (Clinical features model)](endoscopy_clinical_features_for_response_prediction.ipynb)
@@ -32,9 +32,9 @@
 
 | Dataset | Model | AUC | 
 | ------------- | -------------| -------------| 
-| Cinical variables  (with all 6 features) | FFN | 74%| 
-| Selected cinical variables (with selected 3 features) | FFN | 76%| 
-| Endoscopic image  (trained in endoscpic images only) | EfficientNet-B2 | 79%| 
+| Clinical variables  (with all 6 features) | FFN | 74%| 
+| Selected clinical variables (with selected 3 features) | FFN | 76%| 
+| Endoscopic image  (trained in endoscopic images only) | EfficientNet-B2 | 79%| 
 | Combined model (endoscopic image and selected clinical features) | EfficientNet-B2 | 84%| 
 
 ----

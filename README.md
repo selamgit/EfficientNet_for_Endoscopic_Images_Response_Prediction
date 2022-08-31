@@ -36,10 +36,10 @@
 
 | Dataset | Model | AUC | 
 | ------------- | -------------| -------------| 
-| Clinical variables  (with all 6 features) | FFN | 74%| 
-| Selected clinical variables (with selected 3 features) | FFN | 76%| 
+| Clinical variables  (with all 6 features) | FFN | 73%| 
+| Selected clinical variables (with selected top 3 features) | FFN | 76%| 
 | Endoscopic image  (trained in endoscopic images only) | EfficientNet-B2 | 79%| 
-| Combined model (endoscopic image and selected clinical features) | EfficientNet-B2 | 84%| 
+| Combined model (endoscopic image and selected clinical features) | EfficientNet-B2 and FFN | 83%| 
 
 ----
 **Reference**

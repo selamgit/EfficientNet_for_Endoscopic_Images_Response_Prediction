@@ -6,6 +6,8 @@
 
 - The aim is to evaluate the accuracy of response prediction with deep learning methods based on endoscopic images and clinical features.
 
+- Present study shows clinical features are combined with endoscopic imaging features to improve the performance of the deep learning models and provide more clinically relevant models.
+
 ![](images/background_endoscopy_imaging.jpg)
 
 - Details could be found at (the notebook codes and data are slightly modified): 

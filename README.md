@@ -8,6 +8,8 @@
 
 ![](images/background_endoscopy_imaging.jpg)
 
+- Details could be found at (the notebook codes and data are slightly modified): 
+- [The use of deep learning on endoscopic images to assess the response of rectal cancer after chemoradiation](https://link.springer.com/article/10.1007/s00464-021-08685-7)
 ----
 ### Dataset
 * 722 endoscopic images with clinical variables having 6 features 
@@ -39,5 +41,7 @@
 
 ----
 **Reference**
+* [The use of deep learning on endoscopic images to assess the response of rectal cancer after chemoradiation](https://link.springer.com/article/10.1007/s00464-021-08685-7)
 * [Melanoma. Pytorch starter. EfficientNet](https://www.kaggle.com/nroman/melanoma-pytorch-starter-efficientnet/output)
 * [EfficientNet](https://github.com/qubvel/efficientnet)
+

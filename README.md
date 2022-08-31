@@ -10,7 +10,7 @@
 
 ![](images/background_endoscopy_imaging.jpg)
 
-- Details could be found at (the notebook codes and data are slightly modified): 
+- Details could be found below link (note that the codes and results provided in this repo are slightly modified): 
 - [The use of deep learning on endoscopic images to assess the response of rectal cancer after chemoradiation](https://link.springer.com/article/10.1007/s00464-021-08685-7)
 ----
 ### Dataset
@@ -18,8 +18,8 @@
 * Roughly out of 722 records half of them are complete responses and half of them are non-complete responses.
 
 ### During endoscopic images and combined model training
-* Basic augmentation techniques (rotation, flipping, shearing, and zooming of the original images) are used.
-* Since endoscopic images are RGB natural images, transfer learning from ImageNet was also used.
+* Basic augmentation techniques (rotation, flipping, shearing, and zooming of the original images) are applied.
+* Since endoscopic images are RGB natural images, transfer learning from ImageNet was also applied.
 ----
 ### Code
 * [Clinical variables model for response prediction (Clinical features model)](endoscopy_clinical_features_for_response_prediction.ipynb)

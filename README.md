@@ -2,15 +2,15 @@
  
 ### Background and Aim
 
-- Accurate response evaluation is necessary to select complete responders from rectal cancer patients diagnosed and treated with radiotherapy.
+- Accurate response evaluation is crucial to select complete responders from rectal cancer patients diagnosed and treated with radiotherapy.
 
-- The aim is to evaluate the accuracy of response prediction with deep learning methods based on endoscopic images and clinical features.
+- The aim of this study was to evaluate the accuracy of response prediction with deep learning methods based on endoscopic images and clinical features.
 
-- Present study shows clinical features are combined with endoscopic imaging features to improve the performance of the deep learning models and provide more clinically relevant models.
+- Present study shows clinical features are combined with endoscopic imaging features to improve the performance of the deep learning models and provide more confident clinical decisions.
 
 ![](images/background_endoscopy_imaging.jpg)
 
-- Details could be found below link (note that the codes and results provided in this repo are slightly modified): 
+- Details could be found in the below link (note that the codes and results provided in this repo are slightly modified): 
 - [The use of deep learning on endoscopic images to assess the response of rectal cancer after chemoradiation](https://link.springer.com/article/10.1007/s00464-021-08685-7)
 ----
 ### Dataset

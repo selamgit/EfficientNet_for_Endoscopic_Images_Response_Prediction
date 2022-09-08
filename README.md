@@ -8,7 +8,7 @@
 
 - Present study shows clinical features are combined with endoscopic imaging features to improve the performance of the deep learning models and provide more confident clinical decisions.
 
-![](images/background_endoscopy_imaging.jpg)
+![](images/background_endoscopy_imaging.svg)
 
 - Details could be found in the below link (note that the codes and results provided in this repo are slightly modified): 
 - [The use of deep learning on endoscopic images to assess the response of rectal cancer after chemoradiation](https://link.springer.com/article/10.1007/s00464-021-08685-7)

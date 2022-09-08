@@ -26,7 +26,7 @@
 * [Endoscopic images and clinical features model for response prediction (Combined model)](endoscopy_image_and_clinical_features_for_response_prediction.ipynb)
 ----
 ### Proposed Combined Model Architecture
-![](images/combined_model_architecture.jpg)
+![](images/combined_model_architecture.svg)
 
 ----
 ----

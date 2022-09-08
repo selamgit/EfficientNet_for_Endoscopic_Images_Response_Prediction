@@ -1,8 +1,8 @@
-##  Endoscopic images and clinical variables to predict the response to radiation therapy
+##  Endoscopic images and clinical variables to predict the response to chemoradiation
  
 ### Background and Aim
 
-- Accurate response evaluation is crucial to select complete responders from rectal cancer patients diagnosed and treated with radiotherapy.
+- Accurate response evaluation is crucial to select complete responders from rectal cancer patients diagnosed and treated with neoadjuvant (chemo)radiotherapy.
 
 - The aim of this study was to evaluate the accuracy of response prediction with deep learning methods based on endoscopic images and clinical features.
 
